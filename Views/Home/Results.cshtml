@@ -1,0 +1,31 @@
+@model TestMvcApp.Models.ResultsViewModel
+
+@{
+    ViewData["Title"] = "Results";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Results</h1>
+
+    <p>Correct Answers: @Model.CorrectCount / @Model.TotalQuestions</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Question</th>
+                <th>Your Answer</th>
+                <th>Correct Answer</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var answer in Model.Answers)
+            {
+                <tr>
+                    <td>@answer.Key</td>
+                    <td>@answer.Value</td>
+                    <td>@Model.CorrectAnswers.GetValueOrDefault(answer.Key)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,35 @@
+@model List<TestMvcApp.Models.ImageInfo>  
+
+@{
+    ViewData["Title"] = "Random Images";
+}
+<div name="Special_paper2">
+
+<div class="text-center">
+    <h1 class="display-4">Quiz</h1>
+    <form action="@Url.Action("Results", "Home")" method="post">
+        
+
+    @foreach (var image in Model)
+    {
+        <div class="container">
+            <h3> Question @image.id</h3>
+            <img src="@image.Link" alt="@image.Ans" />
+
+             <div>
+                    <input type="radio" id="answer1" name="answers[@image.id]" value="A" required>
+                        <label for="answer1">A</label>
+                    <input type="radio" id="answer2" name="answers[@image.id]" value="B" required>
+                        <label for="answer2">B</label>
+                    <input type="radio" id="answer3" name="answers[@image.id]" value="C" required>
+                        <label for="answer3">C</label>
+                    <input type="radio" id="answer4" name="answers[@image.id]" value="D" required>
+                        <label for="answer4">D</label>
+
+            </div>
+            </div>
+    }
+    <input type="submit" value="submit">
+    </form>
+</div>
+</div>

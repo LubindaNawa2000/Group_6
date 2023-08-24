@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\TestMvcApp.csproj": {}
+    "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\TestMvcApp.csproj": {}
   },
   "projects": {
-    "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\TestMvcApp.csproj": {
+    "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\TestMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\TestMvcApp.csproj",
+        "projectUniqueName": "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\TestMvcApp.csproj",
         "projectName": "TestMvcApp",
-        "projectPath": "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\TestMvcApp.csproj",
+        "projectPath": "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\TestMvcApp.csproj",
         "packagesPath": "C:\\Users\\Lubinda\\.nuget\\packages\\",
-        "outputPath": "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\obj\\",
+        "outputPath": "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lubinda\\AppData\\Roaming\\NuGet\\NuGet.Config"

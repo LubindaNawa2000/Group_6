@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B1GoU0Uabn4oBNhDVOifq7KGS7FRb30qtHLumZfTi1Bx8/6m2RnJXDW4gYuYFRfTFW4MNzi7ciTmzeqVDjT6UA==",
+  "dgSpecHash": "1yFGfr4RsUnyUDnt6Zedt7KrA+y7bvnyi7zu1Xc7tHzI8JEyHGEI3fj30M3IeYFNGb8TyTymcPqcE54hfoqiSQ==",
   "success": true,
-  "projectFilePath": "E:\\Docs\\Coding Projects\\Web\\Task2\\TestMvcApp\\TestMvcApp.csproj",
+  "projectFilePath": "e:\\Docs\\Coding Projects\\Web\\Group 6 Final Assinment\\Task 2\\Group_6\\TestMvcApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lubinda\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lubinda\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",

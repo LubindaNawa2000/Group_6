@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestMvcApp
 build_property.RootNamespace = TestMvcApp
-build_property.ProjectDir = e:\Docs\Coding Projects\Web\Task2\TestMvcApp\
+build_property.ProjectDir = e:\Docs\Coding Projects\Web\Group 6 Final Assinment\Task 2\Group_6\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = e:\Docs\Coding Projects\Web\Task2\TestMvcApp
+build_property.MSBuildProjectDirectory = e:\Docs\Coding Projects\Web\Group 6 Final Assinment\Task 2\Group_6
 build_property._RazorSourceGeneratorDebug = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Areas/Identity/Pages/_ViewStart.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Home/Index.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Home/Privacy.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Home/Results.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Home/Results.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Home/SP1Question.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Home/SP1Question.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTUDFRdWVzdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Home/SP2Question.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Home/SP2Question.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTUDJRdWVzdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Shared/Error.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Shared/_LoginPartial.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/_ViewImports.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/_ViewStart.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[e:/Docs/Coding Projects/Web/Task2/TestMvcApp/Views/Shared/_Layout.cshtml]
+[e:/Docs/Coding Projects/Web/Group 6 Final Assinment/Task 2/Group_6/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q32v8kxk9r

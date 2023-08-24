@@ -39,15 +39,15 @@ namespace TestMvcApp.Controllers
             private List<TestMvcApp.Models.SP1ImageInfo> sp1imageList = new List<TestMvcApp.Models.SP1ImageInfo>
         {
             new TestMvcApp.Models.SP1ImageInfo { id = 1,Ans = "B", Link = "/images/Q1SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 2,Ans = "A", Link = "/images/Q2SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 3,Ans = "C", Link = "/images/Q3SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 4,Ans = "A", Link = "/images/Q4SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 5,Ans = "B", Link = "/images/Q5SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 2,Ans = "C", Link = "/images/Q2SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 3,Ans = "B", Link = "/images/Q3SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 4,Ans = "B", Link = "/images/Q4SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 5,Ans = "C", Link = "/images/Q5SP1(2019).png" },
             new TestMvcApp.Models.SP1ImageInfo { id = 6,Ans = "B", Link = "/images/Q6SP1(2019).png" },
             new TestMvcApp.Models.SP1ImageInfo { id = 7,Ans = "A", Link = "/images/Q7SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 8,Ans = "C", Link = "/images/Q8SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 9,Ans = "A", Link = "/images/Q9SP1(2019).png" },
-            new TestMvcApp.Models.SP1ImageInfo { id = 10,Ans = "B",Link = "/images/Q10SP1(2019).png" }
+            new TestMvcApp.Models.SP1ImageInfo { id = 8,Ans = "A", Link = "/images/Q8SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 9,Ans = "D", Link = "/images/Q9SP1(2019).png" },
+            new TestMvcApp.Models.SP1ImageInfo { id = 10,Ans = "A",Link = "/images/Q10SP1(2019).png" }
         
         };
 
